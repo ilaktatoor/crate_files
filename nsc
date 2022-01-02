@@ -1,0 +1,6 @@
+#! /bin/bash
+
+mkdir nmap
+mkdir scripts
+mkdir credentials
+
