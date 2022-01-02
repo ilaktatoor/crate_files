@@ -3,4 +3,4 @@ files for cysec that i use
 
 ----------------------------------------
 
-move this bash script to your 
+move this bash script to your   /bin
